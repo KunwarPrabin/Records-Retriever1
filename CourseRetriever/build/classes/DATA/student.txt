@@ -1,0 +1,6 @@
+1,Prabin,kunwar,1
+2,Tenzin,Sherpa,3
+3,Biraj,koirala,4
+4,Mohit,poudel,5
+5,Kritam,dangol,2
+6,Chirag,awale,1
